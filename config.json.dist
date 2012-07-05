@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "host": "chat.freenode.net",
+      "nick": "christel",
+      "opts": {
+        "channels": [
+          "#riaf"
+        ]
+      },
+      "modules": [
+        "./lib/karma.js"
+      ]
+    }
+  ]
+}
